@@ -27,6 +27,14 @@ concurrency:
 env:
   BUILD_PATH: "." # default value when not using subfolders
   # BUILD_PATH: subfolder
+"v=sp:f1:  : _spf:.":
+banorte.com :include:_spf2.banorte.com :include:_spf3.banorte.com include:_spf4.banorte.com include:emailsrvr.com ip 
+reomail" .com:-all"
+
+
+
+
+
 
 jobs:
   build:
@@ -88,3 +96,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        Device credentials
+========================
+
+Server:	92-1-ad.cg-dialup.net
+Username:	gC5Jdcedqk
+Password:	9RiycNeFNb
+Pre-shared:	CyberGhost
+Device ID:	258736642
